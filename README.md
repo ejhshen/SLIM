@@ -40,7 +40,7 @@ skill expansion.
 
 ## News
 
-- `2026-05-11`: Release paper and code.
+- `2026-05-12`: Release paper and code.
 
 ## Installation
 
@@ -143,7 +143,7 @@ If you find this project useful, please cite:
 ```bibtex
 @article{slim2026shen,
   title  = {Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning},
-  author = {Shen, Junhao and Zhang, Teng and Zhao, Xiaoyan and Cheng, Hong}
+  author = {Shen, Junhao and Zhang, Teng and Zhao, Xiaoyan and Cheng, Hong},
   year   = {2026},
   journal= {arXiv preprint arXiv:xxxx.xxxxx},
 }
