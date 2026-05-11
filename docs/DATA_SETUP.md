@@ -9,7 +9,7 @@ The launch examples assume benchmark data and skill banks are mounted under `/da
 /datasets/alfworld_full/text/val.parquet
 /datasets/alfworld_full/text/test.parquet
 /datasets/search_qa_processed/train.parquet
-/datasets/search_qa_processed/val_1000.parquet
+/datasets/search_qa_processed/val_4000.parquet
 /datasets/search_qa_processed/test.parquet
 /datasets/search_qa_retriever/
 ```
@@ -41,8 +41,8 @@ export SEARCH_QA_DATA_DIR=/datasets/search_qa_processed
 bash tools/prepare_search_qa_data.sh
 ```
 
-This produces train/test and a validation sample `val_1000.parquet`
-sampled from the test split without removing examples from test.
+This produces train/test files and a validation sample `val_4000.parquet`
+following the shared Search-QA preprocessing protocol.
 
 2. Prepare retriever index and corpus:
 

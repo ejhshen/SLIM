@@ -46,7 +46,7 @@ cd "${PROJECT_ROOT}"
 python3 -m slim_method.main_ppo \
   algorithm.adv_estimator=grpo \
   data.train_files="${SEARCH_QA_DATA_DIR}/train.parquet" \
-  data.val_files="${SEARCH_QA_DATA_DIR}/val_1000.parquet" \
+  data.val_files="${SEARCH_QA_DATA_DIR}/val_4000.parquet" \
   data.test_files="${SEARCH_QA_DATA_DIR}/test.parquet" \
   data.train_batch_size="${SEARCH_TRAIN_BATCH_SIZE}" \
   data.val_batch_size="${SEARCH_VAL_BATCH_SIZE}" \

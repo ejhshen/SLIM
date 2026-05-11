@@ -49,7 +49,7 @@ Default important settings:
 Skill expansion requires an OpenAI-compatible chat service. Set
 `SKILL_CREATOR_BASE_URL`, `SKILL_CREATOR_API_KEY`, and
 `SKILL_CREATOR_MODEL` in the copied env file before running full
-paper-faithful lifecycle expansion. To debug without expansion, set
+lifecycle expansion. To debug without expansion, set
 `EXTRA_ARGS="++env.slim_memory.max_new_skills=0"`.
 
 `lifecycle_update_freq` is tied to validation. SLIM audits immediately after

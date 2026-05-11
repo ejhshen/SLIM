@@ -32,7 +32,7 @@ The benchmark data directories must contain:
 /datasets/alfworld_full/text/val.parquet
 /datasets/alfworld_full/text/test.parquet
 /datasets/search_qa_processed/train.parquet
-/datasets/search_qa_processed/val_1000.parquet
+/datasets/search_qa_processed/val_4000.parquet
 /datasets/search_qa_processed/test.parquet
 /datasets/search_qa_retriever/e5_Flat.index
 /datasets/search_qa_retriever/wiki-18.jsonl

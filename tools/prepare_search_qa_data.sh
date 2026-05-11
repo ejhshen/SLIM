@@ -17,6 +17,6 @@ python3 -m examples.data_preprocess.preprocess_search_r1_dataset \
 python3 -m examples.data_preprocess.generate_search_r1_val \
   --input "${SEARCH_QA_DATA_DIR}/test.parquet" \
   --output_dir "${SEARCH_QA_DATA_DIR}" \
-  --max_sample "${SEARCH_QA_VAL_SIZE:-1000}"
+  --max_sample "${SEARCH_QA_VAL_SIZE:-4000}"
 
-echo "Search-QA train/test/val_1000 parquet data written to ${SEARCH_QA_DATA_DIR}"
+echo "Search-QA train/test/val_4000 parquet data written to ${SEARCH_QA_DATA_DIR}"
