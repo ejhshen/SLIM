@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env*
+!configs/*.env.example
+outputs/
+logs/
+wandb/
+data/**/*.parquet
+data/search_qa_retriever/
+data/alfworld_full/
+models/
+extern/base_agent_rl/
