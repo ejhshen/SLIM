@@ -3,8 +3,8 @@ Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning
 </h1>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx"><img src="https://img.shields.io/badge/Paper-arxiv%3Axxxx.xxxxx-red" alt="Paper"/></a>
-  <a href="https://huggingface.co/papers/xxxx.xxxxx"><img src="https://img.shields.io/badge/Daily%20Paper-huggingface-yellow" alt="HF Paper"/></a>
+  <a href="https://arxiv.org/abs/2605.10923"><img src="https://img.shields.io/badge/Paper-arxiv%3A2605.10923-red" alt="Paper"/></a>
+  <a href="https://huggingface.co/papers/2605.10923"><img src="https://img.shields.io/badge/Daily%20Paper-huggingface-yellow" alt="HF Paper"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/MIT%20LICENSE-green" alt="License"></a>
 </p>
 
@@ -145,7 +145,7 @@ If you find this project useful, please cite:
   title  = {Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning},
   author = {Shen, Junhao and Zhang, Teng and Zhao, Xiaoyan and Cheng, Hong},
   year   = {2026},
-  journal= {arXiv preprint arXiv:xxxx.xxxxx},
+  journal= {arXiv preprint arXiv:2605.10923},
 }
 ```
 
